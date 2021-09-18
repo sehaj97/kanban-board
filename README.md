@@ -1,6 +1,6 @@
 # taskinator
 
-https://sehaj97.github.io/taskinator/
+https://sehaj97.github.io/kanban-board/
 
 Title: Initial Setup
 
